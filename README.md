@@ -4,11 +4,7 @@
 The **Contact Dictionary** is a web application designed to manage and organize your contacts efficiently. It provides a user-friendly interface with a left panel for displaying and searching contacts, and a right panel for viewing detailed contact information or performing actions like adding, editing, or deleting contacts.
 
 ## Video Description
-https://github.com/PDARSHIL312/Contact-Manager-App-Task/blob/main/Contact-Manager-App%20-%20Made%20with%20Clipchamp.mp4
-
-## Video Description
-https://github.com/PDARSHIL312/JS-Shooting-Game/assets/137078389/a8a7bf71-17de-4a9e-bb21-3a0c90f69d31
-
+https://github.com/PDARSHIL312/Contact-Manager-App-Task/blob/main/Contact-Manager-App%20-%20Made%20with%20Clipchamp
 
 ## Features
 1. **Add Contact**:
