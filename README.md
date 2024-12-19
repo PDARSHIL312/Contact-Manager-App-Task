@@ -109,14 +109,4 @@ frontend/
 ## Technologies Used
 - **Frontend**: React, Tailwind CSS
 - **State Management**: React hooks
-- **HTTP Client**: Axios
 - **Notifications**: React Toastify
-
-## Future Improvements
-- Implement authentication for secure access.
-- Add support for contact groups.
-- Enhance UI/UX with animations.
-- Implement pagination for large contact lists.
-
----
-Thank you for using **Contact Dictionary**! Feel free to contribute or report issues.
